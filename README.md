@@ -17,6 +17,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 1. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) [arXiv '17, Google]
 1. [CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://arxiv.org/abs/1711.09224) [arXiv '17]
 1. [Fast YOLO: A Fast You Only Look Once System for Real-time Embedded Object Detection in Video](https://arxiv.org/abs/1709.05943)[arxiv'17]
+1. [Shift-based Primitives for Efficient Convolutional Neural Networks](https://arxiv.org/pdf/1809.08458) [WACV'18]
 
 
 ### Quantization
@@ -49,6 +50,8 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 2. [Learning Structured Sparsity in Deep Neural Networks](https://arxiv.org/pdf/1608.03665.pdf)
 3. [Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism](http://www-personal.umich.edu/~jiecaoyu/papers/jiecaoyu-isca17.pdf)
 4. [Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing](http://www.cs.jhu.edu/~jason/papers/vieira+eisner.tacl17.pdf)
+5. [Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Channel_Pruning_for_ICCV_2017_paper.pdf) [ICCV'17]
+6. [Amc: Automl for model compression and acceleration on mobile devices](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf) [ECCV'18]
 
 ### Binarized neural network
 
