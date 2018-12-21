@@ -52,6 +52,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 4. [Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing](http://www.cs.jhu.edu/~jason/papers/vieira+eisner.tacl17.pdf)
 5. [Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Channel_Pruning_for_ICCV_2017_paper.pdf) [ICCV'17]
 6. [Amc: Automl for model compression and acceleration on mobile devices](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf) [ECCV'18]
+7. [RePr: Improved Training of Convolutional Filters](https://arxiv.org/pdf/1811.07275.pdf)
 
 ### Binarized neural network
 
