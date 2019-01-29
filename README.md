@@ -6,6 +6,7 @@ Some papers I collected and deemed to be great to read, which is also what I'm a
 ### Survey
 
 1. [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/abs/1710.09282) [arXiv '17]
+2. [Recent Advances in Efficient Computation of Deep Convolutional Neural Networks](https://arxiv.org/abs/1802.00939) [arXiv '18]
 
 ### Model and structure
 
