@@ -71,6 +71,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 5. [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530) [ICLR'16]
 6. [High performance ultra-low-precision convolutions on mobile devices](https://arxiv.org/abs/1712.02427) [NIPS'17]
 7. [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
+8. [Tensor Yard: One-Shot Algorithm of Hardware-Friendly Tensor-Train Decomposition for Convolutional Neural Networks](https://arxiv.org/abs/2108.04029) [arXiv'21]
 
 ### Distilling
 
