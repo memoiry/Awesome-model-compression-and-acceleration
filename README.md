@@ -106,6 +106,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 1. [An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices](http://niclane.org/pubs/iotapp15_early.pdf) [IoT-App ’15]
 2. [CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android](https://arxiv.org/abs/1511.07376) [MM '16]
 3. [fpgaConvNet: A Toolflow for Mapping Diverse Convolutional Neural Networks on Embedded FPGAs](https://arxiv.org/abs/1711.08740) [NIPS '17]
+1. [SuperL8: INT8 Quantized Diffusion and Attention Kernels for Volta GPUs](https://github.com/jajmangold/superl8) — Hand-written INT8 DP4A FlashAttention-2 and GEMM kernels for Volta/CMP GPUs with SQNR accuracy gating for quantized diffusion.
 
 
 ### Some optimization techniques
