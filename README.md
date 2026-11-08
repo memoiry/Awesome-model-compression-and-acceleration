@@ -55,6 +55,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 5. [Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Channel_Pruning_for_ICCV_2017_paper.pdf) [ICCV'17]
 6. [Amc: Automl for model compression and acceleration on mobile devices](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf) [ECCV'18]
 7. [RePr: Improved Training of Convolutional Filters](https://arxiv.org/pdf/1811.07275.pdf) [arXiv'18]
+8. [MAPLE: Manifold-Activated Pruning of Latent Experts for Sub-2-BPW Mixture-of-Experts Language Models](https://doi.org/10.5281/zenodo.24042480) [[Code](https://github.com/AmSach/maple)] [Preprint '26]
 
 ### Binarized neural network
 
